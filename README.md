@@ -13,3 +13,8 @@
 
 BUG:
 1. 导出 PDF 的时候记得先关掉预览
+
+2. 实在导不出,用 terminal 命令导出 html,再用浏览器转 PDF(其实直接用 html 也行...)
+
+导出 html :`marp Slides.md`
+导出 PDF :`marp Slides.md --pdf`
