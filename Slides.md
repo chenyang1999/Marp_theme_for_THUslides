@@ -40,7 +40,6 @@ img {
     margin-right:auto; 
     display:block;
     margin:0 auto;
-    display:block;
     width:25cm;
     }
 </style>
@@ -118,7 +117,7 @@ li {font-size: 30px;text-align: left;}
 <style scoped>
 img {
     margin-left: auto; margin-right:auto; 
-    display:block;margin:0 auto;display:block;width:25cm;
+    display:block;margin:0 auto;width:25cm;
     }
 </style>
 或者:
