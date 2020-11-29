@@ -2,7 +2,7 @@
 marp: true
 theme: gaia
 paginate: true
-footer: 'design by Marcus 2020-12-01'
+footer: 'Designed by Marcus 2020-12-01'
 style: | 
   section footer{color:black;font-size: 20px;} 
 
